@@ -362,20 +362,6 @@ The bot's help system explicitly supports inline price lookups, comparisons, mar
 ## 🧠 Performance & Reliability
 
 The bot uses several techniques to improve responsiveness and API reliability.
-
-### 🔄 Multiple Data Providers
-
-For cryptocurrency market data, the bot can use multiple providers with fallback logic.
-
-The general architecture prioritizes:
-
-1. Binance public market data
-2. FreeCryptoAPI
-3. CoinGecko
-4. A Bitcoin-specific fallback through mempool.space
-
-This allows the bot to continue functioning when an individual data source becomes unavailable.
-
 ---
 
 ## 👥 Group Features
