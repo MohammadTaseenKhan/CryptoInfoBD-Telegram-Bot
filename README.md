@@ -44,49 +44,6 @@ The bot can provide information such as:
 
 The bot uses multiple data sources and fallback mechanisms to improve reliability when a primary market-data provider is unavailable.
 
----
-
-### 📈 Market Overview
-
-Explore the broader cryptocurrency market with commands for:
-
-* Top cryptocurrencies
-* 24-hour gainers
-* 24-hour losers
-* Market snapshots
-* Crypto market sentiment
-* Market risk analysis
-* Trend analysis
-* Market scanners
-
-The bot's trend analysis can evaluate technical indicators such as **RSI** and **SMA-based signals** to produce a simplified market interpretation.
-
-> ⚠️ Market analysis is provided for informational purposes only and should not be considered financial advice.
-
----
-
-### 📊 Charts & Technical Analysis
-
-View historical market data through generated charts and technical analysis.
-
-Supported chart timeframes include:
-
-* 1 Day
-* 7 Days
-* 30 Days
-* 1 Year
-
-Depending on the asset and feature, the bot can provide:
-
-* Price charts
-* OHLC/candlestick data
-* RSI analysis
-* SMA20
-* SMA50
-* Bullish/Bearish/Neutral trend interpretation
-
----
-
 ### ⚖️ Cryptocurrency Comparison
 
 Compare two cryptocurrencies directly.
@@ -148,14 +105,6 @@ Example:
 ```text
 /convert 5 btc to eth
 ```
-
-The conversion system is designed to work across supported:
-
-* Cryptocurrencies
-* Fiat currencies
-* Forex pairs
-* Market assets
-
 ---
 
 ### ⭐ Watchlists
@@ -244,16 +193,6 @@ The portfolio feature is designed to provide a convenient overview of holdings a
 
 The bot includes features for exploring Binance Alpha-related assets and market movements.
 
-Available functionality includes:
-
-* Binance Alpha token listings
-* Trending Alpha assets
-* Global market movers
-* Market scanning
-* Binance-related announcements
-
-Inline queries can also be used for quick Alpha-related searches.
-
 ---
 
 ### 😨 Fear & Greed / Sentiment
@@ -301,16 +240,6 @@ Useful for users who want a quick overview of network transaction costs.
 ### 🚀 Binance Launchpool Alerts
 
 Groups that add the bot can receive automatic notifications when new Binance Launchpool projects are detected.
-
-The system is designed to:
-
-* Track groups where the bot is active
-* Send Launchpool announcements
-* Avoid duplicate announcements
-* Persist previously announced project IDs
-* Continue tracking across bot restarts
-
-This feature is intended to provide groups with timely Launchpool notifications without requiring manual setup.
 
 ---
 
@@ -367,12 +296,6 @@ The bot uses several techniques to improve responsiveness and API reliability.
 ## 👥 Group Features
 
 CryptoInfoBD can be added to Telegram groups and provides group-oriented functionality.
-
-The bot maintains lightweight group activity information for features such as:
-
-* Group activity rankings
-* Launchpool notifications
-* Group statistics
 
 The `/leaderboard` feature can show active groups based on bot usage.
 
