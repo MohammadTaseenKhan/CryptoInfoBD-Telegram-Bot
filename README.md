@@ -443,6 +443,12 @@ Administrators can also publish supported content directly to the channel using 
 | `/offers`             | View available sponsored offers              |
 | `/donate`             | Support the bot with Telegram Stars          |
 
+|                                                         Preview                                                                    |
+|------------------------------------------------------------------------------------------------------------------------------------|
+| <img width="100%" height="360" alt="image" src="https://github.com/user-attachments/assets/1dc41baa-f78a-4767-ac64-59d018f43542" /> |
+| <img width="100%" height="253" alt="image" src="https://github.com/user-attachments/assets/48b6e1b5-fd04-4c5c-a850-6e69da56256a" /> |
+
+
 The bot also accepts simple text queries such as:
 
 ```text
